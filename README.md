@@ -1,5 +1,5 @@
 # Project-Kaipulla
-#Hand Gesture Controlled Robot Using Mpu6050 And Esps
+# Hand Gesture Controlled Robot Using Mpu6050 And Esps
 This repository contains the code and schematics for a hand gesture controlled robot using the MPU6050 accelerometer and two ESP microcontrollers. The project aims to control the movement of a robot by sensing the orientation of the user's hand.
 
 # Hardware Requirements
