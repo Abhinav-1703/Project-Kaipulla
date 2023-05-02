@@ -2,7 +2,7 @@
 #Hand Gesture Controlled Robot Using Mpu6050 And Esps
 This repository contains the code and schematics for a hand gesture controlled robot using the MPU6050 accelerometer and two ESP microcontrollers. The project aims to control the movement of a robot by sensing the orientation of the user's hand.
 
-#Hardware Requirements
+# Hardware Requirements
 MPU6050 accelerometer module
 Two ESP microcontrollers
 Robot chassis with two motors
@@ -13,12 +13,12 @@ Power source (battery pack)
 #Circuit Diagram
 The circuit diagram for the project can be found in the schematics directory.
 
-#Libraries
+# Libraries
 The following libraries are required to run the code:
 
 These libraries can be installed using the Arduino Library Manager.
 
-#Code
+# Code
 Clone the repository or download the zip file and extract its contents.
 Open hand_gesture_controlled_robot.ino in the Arduino IDE.
 Connect the MPU6050 and ESP microcontrollers to the breadboard as shown in the circuit diagram.
@@ -33,5 +33,5 @@ Release the MPU6050 to stop the robot.
 Contributing
 If you have any suggestions for improvements or bug fixes, feel free to open an issue or a pull request.
 
-#License
+# License
 This project is licensed under the MIT License - see the LICENSE file for details.
